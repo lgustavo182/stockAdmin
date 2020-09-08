@@ -1,0 +1,128 @@
+c:\users\gabriel.oprado\documents\visual studio 2015\Projects\StockAdmin\StockAdmin\bin\Debug\StockAdmin.exe.config
+D:\StockAdmin\StockAdmin\bin\Debug\StockAdmin.exe.config
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\bin\Debug\StockAdmin.exe.config
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.csprojResolveAssemblyReference.cache
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.Properties.Resources.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.csproj.GenerateResource.Cache
+C:\Users\victor.hmartins\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\bin\Debug\StockAdmin.exe.config
+C:\Users\victor.hmartins\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.csprojResolveAssemblyReference.cache
+C:\Users\victor.hmartins\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\AppTatoo.frm_Menu.resources
+C:\Users\victor.hmartins\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.Properties.Resources.resources
+C:\Users\victor.hmartins\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.csproj.GenerateResource.Cache
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.Properties.Resources.resources
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.csproj.GenerateResource.Cache
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Categoria.resources
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Menu.resources
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\bin\Debug\PROJETO UC10.mdf
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\bin\Debug\PROJETO UC10_log.ldf
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\bin\Debug\StockAdmin.exe
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\bin\Debug\StockAdmin.pdb
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.exe
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.pdb
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.oprado\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Produto.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.exe
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\StockAdmin.pdb
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Categoria.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Menu.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Produto.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Usuario.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\bin\Debug\PROJETO UC10.mdf
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\bin\Debug\PROJETO UC10_log.ldf
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\bin\Debug\StockAdmin.exe
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\bin\Debug\StockAdmin.pdb
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Login.resources
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\bin\Debug\PROJETO UC10.mdf
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\bin\Debug\PROJETO UC10_log.ldf
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\bin\Debug\StockAdmin.exe.config
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\bin\Debug\StockAdmin.exe
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\bin\Debug\StockAdmin.pdb
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\obj\Debug\StockAdmin.csprojAssemblyReference.cache
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Categoria.resources
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Login.resources
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Menu.resources
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Movimentacao.resources
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Produto.resources
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Usuario.resources
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\obj\Debug\StockAdmin.Properties.Resources.resources
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\obj\Debug\StockAdmin.csproj.GenerateResource.cache
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\obj\Debug\StockAdmin.exe
+C:\Users\Biel_\Desktop\StockAdmin\StockAdmin\obj\Debug\StockAdmin.pdb
+D:\projeto att\StockAdmin\StockAdmin\bin\Debug\StockAdmin.exe.config
+D:\projeto att\StockAdmin\StockAdmin\obj\Debug\StockAdmin.exe
+D:\projeto att\StockAdmin\StockAdmin\obj\Debug\StockAdmin.pdb
+D:\projeto att\StockAdmin\StockAdmin\bin\Debug\PROJETO UC10.mdf
+D:\projeto att\StockAdmin\StockAdmin\bin\Debug\PROJETO UC10_log.ldf
+D:\projeto att\StockAdmin\StockAdmin\bin\Debug\StockAdmin.exe
+D:\projeto att\StockAdmin\StockAdmin\bin\Debug\StockAdmin.pdb
+D:\projeto att\StockAdmin\StockAdmin\obj\Debug\StockAdmin.csprojResolveAssemblyReference.cache
+D:\projeto att\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Categoria.resources
+D:\projeto att\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Login.resources
+D:\projeto att\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Menu.resources
+D:\projeto att\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Movimentacao.resources
+D:\projeto att\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Produto.resources
+D:\projeto att\StockAdmin\StockAdmin\obj\Debug\PROJETO_UC10.frm_Usuario.resources
+D:\projeto att\StockAdmin\StockAdmin\obj\Debug\StockAdmin.Properties.Resources.resources
+D:\projeto att\StockAdmin\StockAdmin\obj\Debug\StockAdmin.csproj.GenerateResource.Cache
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\bin\Debug\StockAdmin.exe.config
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.exe
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.pdb
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\bin\Debug\PROJETO UC10.mdf
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\bin\Debug\PROJETO UC10_log.ldf
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\bin\Debug\StockAdmin.exe
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\bin\Debug\StockAdmin.pdb
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.csprojResolveAssemblyReference.cache
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Categoria.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Login.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Menu.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Movimentacao.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Produto.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Usuario.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.Properties.Resources.resources
+C:\Users\luis.gamonteiro\Documents\Visual Studio 2015\Projects\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.csproj.GenerateResource.Cache
+D:\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Movimentacao.resources
+D:\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Categoria.resources
+D:\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Login.resources
+D:\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Menu.resources
+D:\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Produto.resources
+D:\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Usuario.resources
+D:\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.Properties.Resources.resources
+D:\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.csproj.GenerateResource.cache
+D:\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.exe
+D:\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.pdb
+D:\StockAdmin2\StockAdmin\bin\Debug\StockAdmin.exe.config
+D:\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.csprojResolveAssemblyReference.cache
+D:\StockAdmin2\StockAdmin\bin\Debug\PROJETO UC10.mdf
+D:\StockAdmin2\StockAdmin\bin\Debug\PROJETO UC10_log.ldf
+D:\StockAdmin2\StockAdmin\bin\Debug\StockAdmin.exe
+D:\StockAdmin2\StockAdmin\bin\Debug\StockAdmin.pdb
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\bin\Debug\StockAdmin.exe.config
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.exe
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.pdb
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.csprojResolveAssemblyReference.cache
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Movimentacao.resources
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Categoria.resources
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Login.resources
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Menu.resources
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Produto.resources
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Usuario.resources
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.Properties.Resources.resources
+D:\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.csproj.GenerateResource.Cache
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.csprojAssemblyReference.cache
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Movimentacao.resources
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Categoria.resources
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Login.resources
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Menu.resources
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Produto.resources
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\PROJETO_UC10.frm_Usuario.resources
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.Properties.Resources.resources
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.csproj.GenerateResource.cache
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.exe
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.pdb
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\bin\Debug\PROJETO UC10.mdf
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\bin\Debug\PROJETO UC10_log.ldf
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\bin\Debug\StockAdmin.exe.config
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\bin\Debug\StockAdmin.exe
+C:\Users\Biel_\Desktop\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\bin\Debug\StockAdmin.pdb
+D:\PROJETOS\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.exe
+D:\PROJETOS\StockAdmin - VERSÃO FINAL\StockAdmin2\StockAdmin\obj\Debug\StockAdmin.pdb
